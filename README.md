@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Vynicius DMS | @vynidms</h1>
+<h1 align="center">👨‍💻 Vynicius Lopes | @vynidms</h1>
 
 <p align="center">
   Autodidata | Criador de sistemas | Entusiasta da tecnologia | Membro Dakila

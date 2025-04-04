@@ -18,6 +18,14 @@ Atualmente atuo com assistência técnica, gráfica rápida e desenvolvimento de
 
 ---
 
+<p>
+  <img src="https://img.shields.io/badge/Avaliação_Aprendizado-A%2B-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Estabilidade-B%2B-yellow?style=for-the-badge&logo=checkmarx" />
+  <img src="https://img.shields.io/badge/Organização_Ambientes-A-green?style=for-the-badge&logo=visualstudiocode" />
+</p>
+
+---
+
 
 ### 📫 Contato
 

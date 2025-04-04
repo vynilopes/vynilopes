@@ -18,11 +18,13 @@ Atualmente atuo com assistência técnica, gráfica rápida e desenvolvimento de
 
 ---
 
-<p>
-  <img src="https://img.shields.io/badge/Avaliação_Aprendizado-A%2B-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Estabilidade-B%2B-yellow?style=for-the-badge&logo=checkmarx" />
-  <img src="https://img.shields.io/badge/Organização_Ambientes-A-green?style=for-the-badge&logo=visualstudiocode" />
-</p>
+## 📊 Status do Repositório
+
+[![CodeFactor](https://www.codefactor.io/repository/github/vynilopes/vynilopes/badge)](https://www.codefactor.io/repository/github/vynilopes/vynilopes)
+![GitHub last commit](https://img.shields.io/github/last-commit/vynilopes/vynilopes?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/vynilopes/vynilopes?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/vynilopes/vynilopes?style=for-the-badge)
+
 
 ---
 

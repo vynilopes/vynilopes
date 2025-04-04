@@ -13,21 +13,11 @@ Sou apaixonado por tecnologia e desenvolvimento prático. Crio sistemas personal
 Atualmente atuo com assistência técnica, gráfica rápida e desenvolvimento de sistemas desktop com foco em produtividade e organização.  
 
 📍 Baseado em Catu - BA  
-🧠 Estudante de Ciência da Computação (ETEP EAD)  
+🧠 Cursando - Ciência da Computação  
 📚 Acredito que "aprendendo na prática" é o melhor caminho.  
 
 ---
 
-### 🛠️ Ferramentas que utilizo
-
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DB%20Browser-4A90E2?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-QtDesigner-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-</p>
-
----
 
 ### 📫 Contato
 
@@ -39,6 +29,19 @@ Atualmente atuo com assistência técnica, gráfica rápida e desenvolvimento de
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+---
+
+
+### 🛠️ Ferramentas que utilizo
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DB%20Browser-4A90E2?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-QtDesigner-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+</p>
+
 
 ---
 

@@ -49,8 +49,6 @@ Atualmente atuo com assistência técnica, gráfica rápida e desenvolvimento de
 
 - **SGD - VyniTech**: Sistema de Gestão de Documentos em Python
 - **Sistema PDV e Estoque**: Controle de vendas e produtos
-- **Loja VyniTech**: Revenda de produtos com suporte técnico remoto
-- **Projeto de Energia Solar**: Sistema off-grid com bateria e inversor
 
 ---
 

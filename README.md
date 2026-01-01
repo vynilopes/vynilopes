@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Whatsapp-Contato-101010?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/vynilopes999/">
-    <img src="https://img.shields.io/badge/Instagram-@vynidms-101010?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@vynilopes999-101010?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:vyniciuslopes01@gmail.com">
     <img src="https://img.shields.io/badge/Email-Fale_Comigo-101010?style=for-the-badge&logo=gmail&logoColor=white" />

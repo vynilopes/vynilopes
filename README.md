@@ -39,16 +39,6 @@ Atualmente, dedico-me à criação de **sistemas desktop, automações e arquite
 
 ---
 
-### // Projetos em Destaque
-
-🔹 **Vowk Hive**
-> *Desenvolvimento de banco de dados descentralizado e arquivamento de mídia, focado em privacidade e acessibilidade (.onion).*
-
-🔹 **SGD - VyniTech**
-> *Sistema de Gestão de Documentos desktop focado em produtividade para pequenas empresas.*
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vynidms&style=flat-square&color=grey&label=PROFILE+VIEWS" alt="profile views" />
 </p>

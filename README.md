@@ -21,9 +21,11 @@
 
 ### // Sobre
 
-Sou um desenvolvedor focado na prática e na resolução real de problemas. Minha abordagem combina a curiosidade acadêmica da **Ciência da Computação** com a agilidade de um **autodidata**.
+Sou um desenvolvedor movido pela inquietude de quem busca ir além do convencional. Minha base une a estrutura da **Ciência da Computação** com a agilidade agressiva de um **autodidata**, o que me permite transformar problemas complexos em soluções funcionais.
 
-Atualmente, dedico-me à criação de **sistemas desktop, automações e arquiteturas descentralizadas**. Busco soluções que garantam produtividade, segurança e organização de dados.
+Mais do que escrever código, meu objetivo é **desafiar os limites da tecnologia atual** para criar ferramentas que garantam liberdade, segurança e eficiência. Acredito no desenvolvimento de software não apenas como profissão, mas como um meio fundamental para impulsionar o progresso humano e a descentralização da informação.
+
+Atualmente, foco em **arquiteturas descentralizadas, automações e sistemas robustos** que deixem um legado de utilidade real.
 
 ---
 

@@ -1,56 +1,54 @@
-<h1 align="center">👨‍💻 Vynicius Lopes | @vynidms</h1>
+<h1 align="center">Vynicius Lopes</h1>
 
 <p align="center">
-  Autodidata | Criador de sistemas | Entusiasta da tecnologia | Membro Dakila
+  <b>Backend Developer | Python Enthusiast | Dakila Member</b><br>
+  📍 Catu, BA
 </p>
 
----
-
-### 🚀 Sobre mim
-
-Sou apaixonado por tecnologia e desenvolvimento prático. Crio sistemas personalizados, automatizações e soluções voltadas para o dia a dia de pequenas empresas e usuários autônomos.  
-
-Atualmente atuo com assistência técnica, gráfica rápida e desenvolvimento de sistemas desktop com foco em produtividade e organização.  
-
-📍 Baseado em Catu - BA  
-🧠 Cursando - Ciência da Computação  
-📚 Acredito que "aprendendo na prática" é o melhor caminho.  
-
----
-
-### 📫 Contato
-
-<p>
+<p align="center">
   <a href="https://wa.me/71984074610">
-    <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Whatsapp-Contato-101010?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/vynidms/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@vynidms-101010?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:seu_email_aqui@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-Fale_Comigo-101010?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+<br>
+
+### // Sobre
+
+Sou um desenvolvedor focado na prática e na resolução real de problemas. Minha abordagem combina a curiosidade acadêmica da **Ciência da Computação** com a agilidade de um **autodidata**.
+
+Atualmente, dedico-me à criação de **sistemas desktop, automações e arquiteturas descentralizadas**. Busco soluções que garantam produtividade, segurança e organização de dados.
+
 ---
 
+### // Tech Stack
 
-### 🛠️ Ferramentas que utilizo
-
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DB%20Browser-4A90E2?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-QtDesigner-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/DJANGO-000000?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLITE-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/QT_DESIGNER-000000?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-
 ---
 
-### 📌 Projetos em destaque
+### // Projetos em Destaque
 
-- **SGD - VyniTech**: Sistema de Gestão de Documentos em Python
-- **Sistema PDV e Estoque**: Controle de vendas e produtos
+🔹 **Vowk Hive**
+> *Desenvolvimento de banco de dados descentralizado e arquivamento de mídia, focado em privacidade e acessibilidade (.onion).*
+
+🔹 **SGD - VyniTech**
+> *Sistema de Gestão de Documentos desktop focado em produtividade para pequenas empresas.*
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vynidms&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vynidms&style=flat-square&color=grey&label=PROFILE+VIEWS" alt="profile views" />
 </p>

@@ -23,7 +23,7 @@
 
 Sou um desenvolvedor movido pela inquietude de quem busca ir além do convencional. Minha base une a estrutura da **Ciência da Computação** com a agilidade agressiva de um **autodidata**, o que me permite transformar problemas complexos em soluções funcionais.
 
-Mais do que escrever código, meu objetivo é **desafiar os limites da tecnologia atual** para criar ferramentas que garantam liberdade, segurança e eficiência. Acredito no desenvolvimento de software não apenas como profissão, mas como um meio fundamental para impulsionar o progresso humano e a descentralização da informação.
+Mais do que escrever código, meu objetivo é **desafiar os limites da tecnologia atual** para criar ferramentas que garantam liberdade, segurança e eficiência. Acredito no desenvolvimento de software não apenas como profissão, mas como um meio fundamental para impulsionar o progresso humano e a propagar o conhecimento.
 
 Atualmente, foco em **arquiteturas descentralizadas, automações e sistemas robustos** que deixem um legado de utilidade real.
 

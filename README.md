@@ -43,6 +43,7 @@ Mais do que escrever scripts, meu objetivo é **desafiar os limites da tecnologi
   <img src="https://img.shields.io/badge/QT_Designer-101010?style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-101010?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---

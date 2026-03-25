@@ -1,5 +1,5 @@
 <h1 align="center">Vynicius Lopes</h1>
-<h3 align="center">Desenvolvedor Back-End | Python | Tech Maker</h3>
+<h3 align="center">Desenvolvedor Back-End | Pythonista | Tech Maker</h3>
 
 <p align="center">
   📍 Catu, BA

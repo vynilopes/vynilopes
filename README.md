@@ -26,14 +26,14 @@ Sou um desenvolvedor movido pela inquietude de quem busca ir além do convencion
 Mais do que escrever scripts, meu objetivo é **desafiar os limites da tecnologia atual** para criar ferramentas que garantam liberdade, segurança e eficiência. Acredito no desenvolvimento de software não apenas como profissão, mas como um meio fundamental para impulsionar o progresso humano, automatizar processos pesados e propagar conhecimento.
 
 **Onde estou focando agora:**
-- 🔭 Construindo sistemas robustos de gestão e arquiteturas descentralizadas.
-- ⚙️ Desenvolvendo ferramentas em Python para extração, limpeza de dados e automação.
-- 🌱 Aprofundando estudos em Back-End pavimentando o caminho para a **Ciência de Dados**.
-- 💡 Explorando a interseção entre tecnologia, inovação e independência (Sistemas Off-Grid).
+- Construindo sistemas robustos de gestão e arquiteturas descentralizadas.
+- Desenvolvendo ferramentas em Python para extração, limpeza de dados e automação.
+- Aprofundando estudos em Back-End pavimentando o caminho para a **Ciência de Dados**.
+- Explorando a interseção entre tecnologia, inovação e independência (Sistemas Off-Grid).
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### Tech Stack & Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=white" />
@@ -50,8 +50,8 @@ Mais do que escrever scripts, meu objetivo é **desafiar os limites da tecnologi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vynidms&show_icons=true&theme=transparent&hide_border=true&bg_color=101010&title_color=white&text_color=8a8a8a&icon_color=white" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vynidms&layout=compact&theme=transparent&hide_border=true&bg_color=101010&title_color=white&text_color=8a8a8a" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vynilopes&show_icons=true&theme=transparent&hide_border=true&bg_color=101010&title_color=white&text_color=8a8a8a&icon_color=white" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vynilopes&layout=compact&theme=transparent&hide_border=true&bg_color=101010&title_color=white&text_color=8a8a8a" height="150" alt="Top Languages" />
 </p>
 
 <br>

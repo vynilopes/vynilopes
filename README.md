@@ -19,7 +19,7 @@
 
 <br>
 
-### ⚡ Sobre Mim
+### Sobre Mim
 
 Sou um desenvolvedor movido pela inquietude de quem busca ir além do convencional. Minha base une a engenharia de software da **Ciência da Computação** com a visão pragmática da **Eletrotécnica**, o que me permite compreender a tecnologia de ponta a ponta — desde a infraestrutura que fornece a energia até a arquitetura do código de alto nível.
 

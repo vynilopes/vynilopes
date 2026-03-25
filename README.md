@@ -1,7 +1,7 @@
 <h1 align="center">Vynicius Lopes</h1>
 
 <p align="center">
-  <b>Desenvolvedor FullStack | Python | Estudante de Ciência da Computação</b><br>
+  <b>Desenvolvedor Back-End Júnior | Python | Estudante de Ciência da Computação</b><br>
   📍 Catu, BA
 </p>
 
